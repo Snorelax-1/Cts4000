@@ -16,7 +16,6 @@
 
 
 
-[^1]: “ethics, n., Forms”. Oxford English Dictionary, Oxford University Press, September 2023, 
-<https://doi.org/10.1093/OED/8504269553> 
+[^1]: Oxford English Dictionary. “Ethics, n., Forms.” Oxford English Dictionary. Oxford University Press, September 2023. https://doi.org/10.1093/OED/8504269553.
 
 
