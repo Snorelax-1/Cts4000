@@ -1,6 +1,7 @@
 # Exploring the Evolution of the Keyword Ethics
 ## Writer: Leo barker
 ## Date Of Publication: Nov 2, 2023
+## Citation: Barker, Leo
 ## Tags: Ethics, Aristotle, Evolution, Timeline, Literacy
 ## Bio: Leo (He/Him) is a third year university student who loves keeping up with all things technology, he has a dog called chester, and was born in England, he wrote this blog back in his first year of university in the class CTS 1000
 ## Affiliations: University Of Guelph
